@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://TheoBurnel.github.io/Syriaque341-v2/annotations/1d6f4e86-6f4f-48e1-9b42-a74abfa8c45e.json", "https://TheoBurnel.github.io/Syriaque341-v2/annotations/2a564a5d-2155-480e-bba9-df78dc776405.json", "https://TheoBurnel.github.io/Syriaque341-v2/annotations/3e7a8d69-4147-4da3-ba51-424b37d9de18.json" ],
+  "otherContent" : [ "https://TheoBurnel.github.io/Syriaque341-v2/annotations/1d6f4e86-6f4f-48e1-9b42-a74abfa8c45e.json", "https://TheoBurnel.github.io/Syriaque341-v2/annotations/2a564a5d-2155-480e-bba9-df78dc776405.json", "https://TheoBurnel.github.io/Syriaque341-v2/annotations/3e7a8d69-4147-4da3-ba51-424b37d9de18.json", "https://TheoBurnel.github.io/Syriaque341-v2/annotations/8ce01351-7f0b-4bac-bc3f-81ab05c03cd5.json" ],
   "@id" : "https://TheoBurnel.github.io/Syriaque341-v2/annotations/collection.json",
   "label" : "All annotations loaded in TheoBurnel/Syriaque341-v2 project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
