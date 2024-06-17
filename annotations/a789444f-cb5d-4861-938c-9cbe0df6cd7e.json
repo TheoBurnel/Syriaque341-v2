@@ -1,0 +1,70 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "@id" : "http://localhost:8888/annotation/1718624706876",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-06-17T13:45:06",
+    "dcterms:modified" : "2024-06-17T13:45:06",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "<p style=\"margin-top: 0px; caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\">Motif :&nbsp;texte, lettre&nbsp;kaph\n<p style=\"margin-top: 0px; caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\">Couleur :&nbsp;noir\n<p style=\"margin-top: 0px; caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\">Mat&eacute;riau :&nbsp;encre ferrogallique",
+      "format" : "text/html",
+      "chars" : "<p style=\"margin-top: 0px; caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\"><strong>Motif :</strong>&nbsp;texte, lettre&nbsp;<em>kaph</em></p>\n<p style=\"margin-top: 0px; caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\"><strong>Couleur :</strong>&nbsp;noir</p>\n<p style=\"margin-top: 0px; caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\"><strong>Mat&eacute;riau :</strong>&nbsp;encre ferrogallique</p>"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "http://fb9480a0-29e1-486c-8351-15be7c4990b5",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2592,1734,55,52"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2591.66491,1733.66919h27.42313v0h27.42313v25.77168v25.77168h-27.42313h-27.42313v-25.77168z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_28a01274-10df-4915-b011-e74aa23fa437\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "http://a789444f-cb5d-4861-938c-9cbe0df6cd7e"
+    } ],
+    "motivation" : [ "oa:commenting" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "http://localhost:8888/annotation/1718624723908",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-06-17T13:45:23",
+    "dcterms:modified" : "2024-06-17T13:45:23",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "<p style=\"margin-top: 0px; caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\">Motif :&nbsp;v&ecirc;tement, manteau, jambe semestre\n<p style=\"margin-top: 0px; caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\">Couleur :&nbsp;gris, vert\n<p style=\"margin-top: 0px; caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\">Mat&eacute;riau :&nbsp;plomb, blanc de c&eacute;ruse",
+      "format" : "text/html",
+      "chars" : "<p style=\"margin-top: 0px; caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\"><strong>Motif :</strong>&nbsp;v&ecirc;tement, manteau, jambe semestre</p>\n<p style=\"margin-top: 0px; caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\"><strong>Couleur :</strong>&nbsp;gris, vert</p>\n<p style=\"margin-top: 0px; caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\"><strong>Mat&eacute;riau :</strong>&nbsp;plomb, blanc de c&eacute;ruse</p>"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "http://fb9480a0-29e1-486c-8351-15be7c4990b5",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3001,2513,52,52"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3001.22339,2513.15145h25.77168v0h25.77168v25.77168v25.77168h-25.77168h-25.77168v-25.77168z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_a80329bc-7ec5-4474-aba6-03125926d53c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "http://a789444f-cb5d-4861-938c-9cbe0df6cd7e"
+    } ],
+    "motivation" : [ "oa:commenting" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  } ],
+  "@id" : "https://TheoBurnel.github.io/Syriaque341-v2/annotations/a789444f-cb5d-4861-938c-9cbe0df6cd7e.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
